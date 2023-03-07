@@ -1,4 +1,5 @@
 lion - Omar 
-tiger - Omar
-leopard 
+lion Mingda
+tiger
+leopard
 turtle
