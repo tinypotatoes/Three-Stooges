@@ -1,4 +1,4 @@
-lion
-tiger
-leopard
+lion - Omar 
+tiger - Omar
+leopard 
 turtle
